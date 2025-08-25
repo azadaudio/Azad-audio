@@ -1,21 +1,3 @@
-<!DOCTYPE html><html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>AZAD AUDIO — Electronics & Sound</title>
-  <meta name="description" content="AZAD AUDIO — Professional speakers, amplifiers, microphones, and accessories. WhatsApp +91 89497 43963 • HR.Azadaudio@gmail.com"/>
-  <style>
-    :root{
-      --bg:#0e0e0f;        /* near-black */
-      --card:#141417;      /* dark card */
-      --muted:#9aa0a6;     /* muted text */
-      --text:#f7f7f7;      /* primary text */
-      --brand:#e31b23;     /* bold red */
-      --brand-2:#c4121a;   /* darker red */
-      --accent:#cfd8dc;    /* light grey */
-    }
-    *{box-sizing:border-box}
-    html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,"Helvetica Neue",Arial,"Apple Color Emoji","Segoe UI Emoji";}
     a{color:inherit;text-decoration:none}
     img{max-width:100%;display:block}
     .container{max-width:1200px;margin:0 auto;padding:0 20px}/* Header */
